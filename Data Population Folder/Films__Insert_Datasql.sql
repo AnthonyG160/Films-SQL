@@ -297,3 +297,51 @@ VALUES ('Fight Club',  1999, 139, 'English');
 
 INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
 VALUES ('Man of Steel',  2013, 143, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Greenland',  2020, 119, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Tenet',  2020, 150, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Extraction',  2020, 150, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Avatar: The Way of Water',  2022, 192, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Spider-Man: No Way Home',  2021, 148, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Top Gun: Maverick',  2022, 131, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Jurassic World Dominion',  2022, 146, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Doctor Strange in the Multiverse of Madness',  2022, 126, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Black Panther: Wakanda Forever',  2022, 161, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Guardians of the Galaxy Vol. 3',  2023, 150, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('No Time to Die',  2021, 163, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Fast X',  2023, 141, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('The Little Mermaid',  2023, 135, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Mission: Impossible - Dead Reckoning Part One',  2023, 163, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('Indiana Jones and the Dial of Destiny',  2023, 154, 'English');
+
+INSERT INTO films (film_name, film_release_year, film_runtime, film_language)
+VALUES ('The Fall Guy',  2024, 126, 'English');

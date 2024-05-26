@@ -121,10 +121,10 @@
     VALUES ('Barbie', 3);
 
     INSERT INTO director (director_id, director_fName, director_Lname)
-    VALUES (83, 'Greta', 'Gerwig');
+    VALUES (94, 'Greta', 'Gerwig');
 
     INSERT INTO film_director (director_id, film_name)
-    VALUES (83, 'Barbie');
+    VALUES (94, 'Barbie');
 
     INSERT INTO budget (film_name, budget) 
     VALUES ('Barbie', 145000000);

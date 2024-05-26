@@ -243,3 +243,36 @@ INSERT INTO director (director_id, director_fName, director_Lname)
 
 INSERT INTO director (director_id, director_fName, director_Lname)
  VALUES (82, 'Rod', 'Lurie');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (83, 'Sam', 'Hargrave');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (84, 'James', 'Cameron');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (85, 'Jon', 'Watts');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (86, 'Joseph', 'Kosinski');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (87, 'Sam', 'Raimi');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (88, 'Ryan', 'Coogler');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (89, 'James', 'Gunn');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (90, 'Cary', 'Joji Fukunaga');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (91, 'Louis', 'Leterrier');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (92, 'Rob', 'Marhsall');
+
+INSERT INTO director (director_id, director_fName, director_Lname)
+ VALUES (93, 'Christopher', 'McQuarrie');

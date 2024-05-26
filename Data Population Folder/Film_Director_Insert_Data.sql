@@ -297,3 +297,51 @@ VALUES (63, 'Fight Club');
 
 INSERT INTO film_director (director_id, film_name)
 VALUES (36, 'Man of Steel');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (62, 'Greenland');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (32, 'Tenet');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (83, 'Extraction');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (84, 'Avatar: The Way of Water');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (85, 'Spider-Man: No Way Home');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (86, 'Top Gun: Maverick');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (65, 'Jurassic World Dominion');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (87, 'Doctor Strange in the Multiverse of Madness');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (88, 'Black Panther: Wakanda Forever');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (89, 'Guardians of the Galaxy Vol. 3');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (90, 'No Time to Die');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (91, 'Fast X');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (92, 'The Little Mermaid');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (93, 'Mission: Impossible - Dead Reckoning Part One');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (9, 'Indiana Jones and the Dial of Destiny');
+
+INSERT INTO film_director (director_id, film_name)
+VALUES (51, 'The Fall Guy');

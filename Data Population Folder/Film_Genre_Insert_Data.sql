@@ -360,3 +360,45 @@ INSERT INTO film_genre (film_name, genre_id) VALUES ('Fight Club', 3);
 
 INSERT INTO film_genre (film_name, genre_id) VALUES ('Man of Steel', 1);
 INSERT INTO film_genre (film_name, genre_id) VALUES ('Man of Steel', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Greenland', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Greenland', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Tenet', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Extraction', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Avatar: The Way of Water', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Avatar: The Way of Water', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Spider-Man: No Way Home', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Top Gun: Maverick', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Jurassic World Dominion', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Jurassic World Dominion', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Doctor Strange in the Multiverse of Madness', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Doctor Strange in the Multiverse of Madness', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Black Panther: Wakanda Forever', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Black Panther: Wakanda Forever', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Guardians of the Galaxy Vol. 3', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Guardians of the Galaxy Vol. 3', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('No Time to Die', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Fast X', 1);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('The Little Mermaid', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Mission: Impossible - Dead Reckoning Part One', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Mission: Impossible - Dead Reckoning Part One', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Indiana Jones and the Dial of Destiny', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('Indiana Jones and the Dial of Destiny', 2);
+
+INSERT INTO film_genre (film_name, genre_id) VALUES ('The Fall Guy', 1);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('The Fall Guy', 3);
+INSERT INTO film_genre (film_name, genre_id) VALUES ('The Fall Guy', 5);

@@ -297,3 +297,51 @@ VALUES ('Fight Club', 8.8, 79);
 
 INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
 VALUES ('Man of Steel', 7, 56);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Greenland', 6.4, 78);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Tenet', 7.3, 69);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Extraction', 6.8, 67);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Avatar: The Way of Water', 7.5, 76);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Spider-Man: No Way Home', 8.2, 93);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Top Gun: Maverick', 8.2, 96);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Jurassic World Dominion', 5.6, 29);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Doctor Strange in the Multiverse of Madness', 6.9, 73);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Black Panther: Wakanda Forever', 6.7, 83);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Guardians of the Galaxy Vol. 3', 7.9, 82);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('No Time to Die', 7.3, 83);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Fast X', 5.8, 56);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('The Little Mermaid', 7.2, 67);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Mission: Impossible - Dead Reckoning Part One', 7.7, 96);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('Indiana Jones and the Dial of Destiny', 6.7, 70);
+
+INSERT INTO rating (film_name, rating_imdb, rating_rotten_tomatoes)
+VALUES ('The Fall Guy', 7.1, 81);

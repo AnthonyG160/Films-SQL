@@ -197,3 +197,35 @@ INSERT INTO budget (film_name, budget) VALUES ('Angel Has Fallen', 40000000);
 INSERT INTO budget (film_name, budget) VALUES ('Fight Club', 63000000);
 
 INSERT INTO budget (film_name, budget) VALUES ('Man of Steel', 225000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Greenland', 35000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Tenet', 205000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Extraction', 65000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Avatar: The Way of Water', 460000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Spider-Man: No Way Home', 200000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Top Gun: Maverick', 177000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Jurassic World Dominion', 265000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Doctor Strange in the Multiverse of Madness', 350000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Black Panther: Wakanda Forever', 250000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Guardians of the Galaxy Vol. 3', 250000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('No Time to Die', 301000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Fast X', 340000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('The Little Mermaid', 240000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Mission: Impossible - Dead Reckoning Part One', 291000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('Indiana Jones and the Dial of Destiny', 387000000);
+
+INSERT INTO budget (film_name, budget) VALUES ('The Fall Guy', 130000000);
